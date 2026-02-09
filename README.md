@@ -1,5 +1,13 @@
-# DSA-Patterns
-DSA solutions organized by problem-solving patterns
+# DSA Patterns
 
-🔗 [LRU Cache – System Design Implementation](https://github.com/sk02265532014/LRU-Cache)
+A curated collection of common Data Structures & Algorithms patterns 
+implemented in C++ with clean code and explanations.
+
+## Patterns Covered
+- String Algorithms (KMP, LPS)
+- Sliding Window
+- Two Pointers
+- Dynamic Programming
+- Trees
+
 
